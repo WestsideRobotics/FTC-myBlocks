@@ -160,7 +160,7 @@ public class myVuforiaNavWebcamAS_v02 {
      * and paste it in to your code on the next line, between the double quotes.
      */
     private static final String VUFORIA_KEY =
-            "AY8CNyf/////AAABmacTilnRckNipYdjO0lQTT6LIXxm2Y2jY7UsLAx+RIhtFqQuYjalD/A2ursWB0/PDX6m32jzxfrEEBkCUt/9M4yAJ5CHCpC/nf//QGGEgPGk6KMnnFuUR0BZMfGqVu9pHp8zurEXQDQ1nEuvhiU9TClgRIh4ZFhp0sF1G/G7RgemQY+t4kfeTQC//vjHoPpJu5l/tfJZrUm3E01GdcpKlgfs4Rt6QBwHmq2PQlnMGB70PlA2lw6KIX96Ngt9oUOTzen9hClsGeQkytxawnu3AXGV2Adkc1BAhhqFlphvMGGHHQ2SodTcFsvXfl1+A0VeRtZpL//0gDf8arizf+bIwyXo6eh6jcukQy8mkDUG461U";
+            "insert your own key";
 
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
