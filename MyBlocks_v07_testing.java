@@ -61,9 +61,6 @@ import org.firstinspires.ftc.robotcore.external.ExportToBlocks;
 // myBlocks available for a user, not just one as shown here.
 public class MyBlocks_v07_testing extends BlocksOpModeCompanion {
 
-    //static AndroidTextToSpeech androidTextToSpeech;
-
-    
     // This Annotation must appear immediately before any myBlock method.
     // It's optional to add a comment, tooltip, and/or parameterLabels.
     @ExportToBlocks (
